@@ -1,0 +1,28 @@
+name: Photography By Fiscus
+favicon: null
+layout_spectrum: 0.12863067747093737
+typography_spectrum: 0.26124994503334165
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7790478067472577
+  lightness: 0.424629173707217
+  saturation: 0.32738490868359804
+  rhythmicContrast: 0.2841606915462762
+purpose: []
